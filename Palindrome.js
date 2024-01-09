@@ -5,5 +5,3 @@ function checkPalindrome(number) {
 
 console.log(checkPalindrome(121));
 console.log(checkPalindrome(-121));
-
-
